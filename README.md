@@ -12,7 +12,7 @@
 
 ## Einführung: Machine Learning für Designer
 
-[Slides hinzufügen]
+**[→ Download Slides](Laborwoche-ML.pdf)**
 
 1. **Grundlagen**  
 	* Was ist ML? Beispiele, Definition und ein Ausflug in die Mathematik
