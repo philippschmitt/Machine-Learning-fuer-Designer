@@ -1,4 +1,4 @@
-![](cover.jpg)
+![](images/cover.jpg)
 
 **Design für Machine Learning, Machine Learning für Design — einwöchiger Workshop an der [Hochschule für Gestaltung Schwäbisch Gmünd](https://www.hfg-gmuend.de), November 2018.**
 
@@ -31,6 +31,7 @@
 	* Demo: [Runway](https://runwayapp.ai)
 	* Demo: [ml5.js](https://ml5js.org)
 	* Demo: [t-SNE.js](https://cs.stanford.edu/people/karpathy/tsnejs/)
+	* Demo: [brain.js](https://github.com/BrainJS/brain.js)
 
 
 ## Links / Quellen
@@ -81,3 +82,53 @@ Eine Liste von Ressourcen, die ich persönlich nützlich finde. Nicht als vollst
 * [CreativeAI](http://www.creativeai.net)
 * [Algorithms.design](http://algorithms.design)
 * [Speculative Authentications](https://passwords.ai)
+
+
+## Studenten-Projekte
+
+### Widerstandssortierer
+![](images/widerstandssortierer.jpg)
+Widerstand einwerfen, Ohmzahl ablesen, fertig. **Michelle Bauch** und **Aaron Eichler** haben mit Wekinator ein Model trainiert dass elektronische Widerstände anhand ihres Farbcodes erkennt.
+
+
+### [NeuraLorem](https://github.com/Radialarray/neuralorem) 
+![Neuralorem](images/Neuralorem.gif)
+
+**[NeuraLorem](https://github.com/Radialarray/neuralorem)** von [Sven Löchner](sven-loechner.com) ist ein Plugin für Sketch zur Erstellung von Lorem Ipsum Fülltext. Das Plugin generiert den Text basierend auf der Eingabewörter und versucht, anstelle des Standard Lorem Ipsum Fülltextes einen kontextbasierten Fülltext zu erstellen. 
+Das Projekt basiert auf minimaxir/textgenrnn, einem Neural Network zur Textgenerierung.
+
+
+### ML Colorpicker
+![Colorpicker](images/colorpicker.PNG)
+
+**[Christopher Himann](http://github.com/ChRIisS97)** und **Maurice Rio** haben einen ML Color Picker entwickelt. Der Benutzer wählt eine Farbe aus und ein Neurales Netzwerk ergänzt zwei weitere. Der ML Color Picker basiert auf [brain.js](https://github.com/BrainJS/brain.js) und wurde mit Farbharmonien trainiert.
+
+
+### (Un)Sichtbare Emotionen
+![(un)sichtbare Emotionen](images/unsichtbare-emotionen.jpg)
+
+(Un)Sichtbare Emotionen, von Maximilian Härle und [Tobias Haag](https://iot.hfg-gmuend.de/student:tobias-haag), erkennt per Webcam Gesichtsaustrücke, versucht Emotionen zu erkennen und setzt die Daten in Farben und Frequenzmuster aus Salzkristallen um. Das räumlich-visuelle Konzept hat die Absicht, dass eine Person vor dem Screen steht und die zum Gesichtsausdruck verbundene Farbe wahrnimmt und eine andere Person das „Emotionsmuster“ erkennt.
+
+
+### Pixelsound
+![PixelSound](images/pixelsound.gif)
+
+Pixelsound von[Laura Humpfer](laurahumpfer.de)und [Monika Litzinger](monikalitzinger.de)  verwandelt mit Hilfe von Wekinator visuellen Input in auditiven Output.
+
+
+### @therealdonaldtrump Tweet Map
+![Tweet Map](images/tweetmap.gif)
+
+[Florian Deitermann](floriandeitermann.com), [Janis Walser-Cofalka](janiswalser.de) und [Max Mertens](max-mertens.com) haben mit Hilfe von t-SNE, Bag-of-Words und p5.js Tweets des US-Präsidenten visualisiert, um Rhetorik visuell erkenntlich zu machen.
+
+
+### Visualizing how the machine learns
+![tsne Visualization](images/tsne-visualization.gif)
+
+Datenkunst mit t-SNE von [Florian Deitermann](floriandeitermann.com), [Janis Walser-Cofalka](janiswalser.de) und [Max Mertens](max-mertens.com).
+
+
+### Handschrift-Erkennung
+![](images/handschrift.gif)
+
+[Valerie Grappendorf](www.linkedin.com/in/valerie-grappendorf-6714a6159) hat mit Wekinator und Processing eine Handschrift-Erkennung programmiert.
