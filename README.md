@@ -94,7 +94,7 @@ Widerstand einwerfen, Ohmzahl ablesen, fertig. **Michelle Bauch** und **Aaron Ei
 ### [NeuraLorem](https://github.com/Radialarray/neuralorem) 
 ![Neuralorem](images/Neuralorem.gif)
 
-**[NeuraLorem](https://github.com/Radialarray/neuralorem)** von [Sven Löchner](sven-loechner.com) ist ein Plugin für Sketch zur Erstellung von Lorem Ipsum Fülltext. Das Plugin generiert den Text basierend auf der Eingabewörter und versucht, anstelle des Standard Lorem Ipsum Fülltextes einen kontextbasierten Fülltext zu erstellen. 
+**[NeuraLorem](https://github.com/Radialarray/neuralorem)** von [Sven Löchner](http://sven-loechner.com) ist ein Plugin für Sketch zur Erstellung von Lorem Ipsum Fülltext. Das Plugin generiert den Text basierend auf der Eingabewörter und versucht, anstelle des Standard Lorem Ipsum Fülltextes einen kontextbasierten Fülltext zu erstellen. 
 Das Projekt basiert auf minimaxir/textgenrnn, einem Neural Network zur Textgenerierung.
 
 
@@ -113,19 +113,19 @@ Das Projekt basiert auf minimaxir/textgenrnn, einem Neural Network zur Textgener
 ### Pixelsound
 ![PixelSound](images/pixelsound.gif)
 
-Pixelsound von[Laura Humpfer](laurahumpfer.de)und [Monika Litzinger](monikalitzinger.de)  verwandelt mit Hilfe von Wekinator visuellen Input in auditiven Output.
+Pixelsound von[Laura Humpfer](http://laurahumpfer.de)und [Monika Litzinger](monikalitzinger.de)  verwandelt mit Hilfe von Wekinator visuellen Input in auditiven Output.
 
 
 ### @therealdonaldtrump Tweet Map
 ![Tweet Map](images/tweetmap.gif)
 
-[Florian Deitermann](floriandeitermann.com), [Janis Walser-Cofalka](janiswalser.de) und [Max Mertens](max-mertens.com) haben mit Hilfe von t-SNE, Bag-of-Words und p5.js Tweets des US-Präsidenten visualisiert, um Rhetorik visuell erkenntlich zu machen.
+[Florian Deitermann](http://floriandeitermann.com), [Janis Walser-Cofalka](http://janiswalser.de) und [Max Mertens](http://max-mertens.com) haben mit Hilfe von t-SNE, Bag-of-Words und p5.js Tweets des US-Präsidenten visualisiert, um Rhetorik visuell erkenntlich zu machen.
 
 
 ### Visualizing how the machine learns
 ![tsne Visualization](images/tsne-visualization.gif)
 
-Datenkunst mit t-SNE von [Florian Deitermann](floriandeitermann.com), [Janis Walser-Cofalka](janiswalser.de) und [Max Mertens](max-mertens.com).
+Datenkunst mit t-SNE von [Florian Deitermann](http://floriandeitermann.com), [Janis Walser-Cofalka](http://janiswalser.de) und [Max Mertens](http://max-mertens.com).
 
 
 ### Handschrift-Erkennung
