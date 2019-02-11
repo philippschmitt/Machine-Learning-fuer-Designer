@@ -113,7 +113,7 @@ Das Projekt basiert auf minimaxir/textgenrnn, einem Neural Network zur Textgener
 ### Pixelsound
 ![PixelSound](images/pixelsound.gif)
 
-Pixelsound von[Laura Humpfer](http://laurahumpfer.de)und [Monika Litzinger](monikalitzinger.de)  verwandelt mit Hilfe von Wekinator visuellen Input in auditiven Output.
+Pixelsound von [Laura Humpfer](http://laurahumpfer.de) und [Monika Litzinger](monikalitzinger.de)  verwandelt mit Hilfe von Wekinator visuellen Input in auditiven Output.
 
 
 ### @therealdonaldtrump Tweet Map
@@ -132,3 +132,6 @@ Datenkunst mit t-SNE von [Florian Deitermann](http://floriandeitermann.com), [Ja
 ![](images/handschrift.gif)
 
 [Valerie Grappendorf](www.linkedin.com/in/valerie-grappendorf-6714a6159) hat mit Wekinator und Processing eine Handschrift-Erkennung programmiert.
+
+
+*Herzlichen Dank an die motivierten Studenten, die HfG Schwäbisch Gmünd sowie an die zahlreichen Autoren von Open-Source Tools und Lernmaterialien, auf denen dieser Workshop basiert!*
