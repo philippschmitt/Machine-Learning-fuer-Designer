@@ -8,7 +8,7 @@
 > 
 > Was ist ML und was nicht? Wie können wir Machine Learning in unseren Projekten einsetzen, wie im Designprozess selbst? Wie gestalten wir verantwortungsvoll mit einer Technologie an der Spitze des Hype Cycle? Ziel des Workshops ist es, verschiedene ML Anwendungsbereiche kennenzulernen und in eigenen Projekten prototypisch anzuwenden (ohne dabei Hype und Mythos zu verfallen).
   
-
+von [Philipp Schmitt](https://philippschmitt.com). Stand: November 2018.
 
 ## Einführung: Machine Learning für Designer
 
@@ -107,7 +107,7 @@ Das Projekt basiert auf minimaxir/textgenrnn, einem Neural Network zur Textgener
 ### (Un)Sichtbare Emotionen
 ![(un)sichtbare Emotionen](images/unsichtbare-emotionen.jpg)
 
-(Un)Sichtbare Emotionen, von Maximilian Härle und [Tobias Haag](https://iot.hfg-gmuend.de/student:tobias-haag), erkennt per Webcam Gesichtsaustrücke, versucht Emotionen zu erkennen und setzt die Daten in Farben und Frequenzmuster aus Salzkristallen um. Das räumlich-visuelle Konzept hat die Absicht, dass eine Person vor dem Screen steht und die zum Gesichtsausdruck verbundene Farbe wahrnimmt und eine andere Person das „Emotionsmuster“ erkennt.
+(Un)Sichtbare Emotionen, von Maximilian Härle und [Tobias Haag](https://iot.hfg-gmuend.de/student:tobias-haag), erkennt per Webcam Gesichtsaustrücke, versucht Emotionen zu erkennen und setzt die Daten in Farben und Frequenzmuster aus Salzkristallen um. Das räumlich-visuelle Konzept hat die Absicht, dass eine Person vor dem Screen steht und die zum Gesichtsausdruck verbundene Farbe wahrnimmt und eine andere Person das „Emotionsmuster“ erkennt.
 
 
 ### Pixelsound
