@@ -67,7 +67,7 @@ Eine Liste von Ressourcen, die ich persönlich nützlich finde. Nicht als vollst
 * [Experience Design in the Machine Learning Era](https://medium.com/@girardin/experience-design-in-the-machine-learning-era-e16c87f4f2e2), Fabien Girardin
 * [AI UX: 7 Principles of Designing Good AI Products](https://uxstudioteam.com/ux-blog/ai-ux/), Dávid Pásztor
 * [Human-Centered Machine Learning](https://medium.com/google-design/human-centered-machine-learning-a770d10562cd), Josh Lovejoy and Jess Holbrook
-* [https://medium.com/ml-ux/machine-learning-and-user-experience-a-few-resources-e7872f1d34ee](Machine Learning and User Experience: A Few Resources), Michelle Carney
+* [Machine Learning and User Experience: A Few Resources)](https://medium.com/ml-ux/machine-learning-and-user-experience-a-few-resources-e7872f1d34ee), Michelle Carney
 
 ### Philosophie, Geschichte, Ethik, …
 * [Machines that Morph Logic: Neural Networks and the Distorted Automation of Intelligence as Statistical Inference](http://www.glass-bead.org/article/machines-that-morph-logic/?lang=enview), Matteo Pasquinelli
